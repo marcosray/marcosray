@@ -7,8 +7,7 @@ I am a dedicated data enthusiast pursuing a Master's in Big Data and Business An
 - 👯 I’m looking to collaborate on projects that involve data-driven decision-making and business process optimization.
 - 🤔 I’m looking for help with implementing effective data governance strategies for large-scale organizations.
 - 💬 Ask me about data management, business analytics, and market trend analysis.
-- 📫 How to reach me: jane.smith@email.com | LinkedIn: [Jane Smith](https://www.linkedin.com/in/janesmith/)
-- 😄 Pronouns: She/Her
+- 📫 How to reach me: marcosray94h@gmail.com | LinkedIn: [Marcos Ray](https://www.linkedin.com/in/marcosray/)
 - ⚡ Fun fact: I enjoy exploring local coffee shops and trying out new espresso blends.
 
 ### Skills
