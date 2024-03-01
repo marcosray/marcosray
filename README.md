@@ -8,7 +8,7 @@ I am a dedicated data enthusiast pursuing a Master's in Big Data and Business An
 - 🤔 I’m looking for help with implementing effective data governance strategies for large-scale organizations.
 - 💬 Ask me about data management, business analytics, and market trend analysis.
 - 📫 How to reach me: marcosray94h@gmail.com | LinkedIn: [Marcos Ray](https://www.linkedin.com/in/marcosray/)
-- ⚡ Fun fact: I enjoy exploring local coffee shops and trying out new espresso blends.
+- ⚡ Fun fact: I enjoy running marathons and bonding with other people through sports.
 
 ### Skills
 
@@ -38,15 +38,15 @@ I am a dedicated data enthusiast pursuing a Master's in Big Data and Business An
 
 ### Education
 
-- Master of Science in Big Data and Business Analytics, XYZ University (2022 - Present)
-- Bachelor of Business Administration, ABC University (2018 - 2022)
+- Master of Science in Big Data and Business Analytics, IE University (2023 - 2024)
+- Industrial Engineer Degree, Pontificia Universidad Católica Argentina(UCA) (2012 - 2017)
 
 ### Interests
 
 - Market Analysis
 - Business Strategy
-- Data Governance
-- Coffee Tasting
+- Data Analysis
+- Sports
 
 ### Contact Me
 
