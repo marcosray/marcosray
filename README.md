@@ -1,6 +1,6 @@
 ### Hi there, I'm Marcos Ray 👋
 
-I am a dedicated data enthusiast pursuing a Master's in Big Data and Business Analytics, with a passion for leveraging data-driven insights to optimize business strategies and decision-making. With a background in Business Administration, I combine analytical skills with a keen business acumen to drive organizational growth through data-centric approaches.
+I am a dedicated data Analyst pursuing a Master's in Big Data and Business Analytics, with a passion for leveraging data-driven insights to optimize business strategies and decision-making. With a background in Business Administration and Industrial Engineering, I combine analytical skills with a keen business acumen to drive organizational growth through data-centric approaches.
 
 - 🔭 I’m currently working on a business intelligence project that aims to streamline sales operations and enhance customer engagement.
 - 🌱 I’m currently learning advanced data visualization techniques and predictive modeling for business forecasting.
