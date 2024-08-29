@@ -7,7 +7,7 @@ I am a dedicated data Analyst pursuing a Master's in Big Data and Business Analy
 - 👯 I’m looking to collaborate on projects that involve data-driven decision-making and business process optimization.
 - 🤔 I’m looking for help with implementing effective data governance strategies for large-scale organizations.
 - 💬 Ask me about data management, business analytics, and market trend analysis.
-- 📫 How to reach me: marcosray94h@gmail.com | LinkedIn: [Marcos Ray](https://www.linkedin.com/in/marcosray/)
+- 📫 How to reach me: marcosray94@gmail.com | LinkedIn: [Marcos Ray](https://www.linkedin.com/in/marcosray/)
 - ⚡ Fun fact: I enjoy running marathons and bonding with other people through sports.
 
 ### Skills
